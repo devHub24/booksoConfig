@@ -1,5 +1,5 @@
 customer:
-  message: "Hi this is from Prod"
+  message: "Hi this is from Prod team"
   contactInfo:
     name: "Santhosh"
     email: "santhosh@gmail.com"
