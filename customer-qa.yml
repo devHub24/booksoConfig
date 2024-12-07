@@ -1,5 +1,5 @@
 customer:
-  message: "Hi this is from customer QA team"
+  message: "Hi this is from customer QA"
   contactInfo:
     name: "Santhosh"
     email: "santhosh@gmail.com"
